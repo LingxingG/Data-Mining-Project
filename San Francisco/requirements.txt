@@ -1,4 +1,0 @@
-amadeus
-pandas
-numpy
-pickle
