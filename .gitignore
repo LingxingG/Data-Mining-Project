@@ -1,3 +1,5 @@
 
 San Francisco/calendar.csv
 San Francisco/reviews.csv
+*.csv
+*.pkl

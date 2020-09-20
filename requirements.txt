@@ -1,0 +1,4 @@
+amadeus
+pandas
+numpy
+pickle
