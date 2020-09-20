@@ -1,3 +1,4 @@
-
 raw_data/calendar.csv
 raw_data/reviews.csv
+pre-processing and EDA/cleaned_calendar.pkl
+pre-processing and EDA/cleaned_calendar_with_dt.pkl
