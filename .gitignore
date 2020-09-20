@@ -1,5 +1,7 @@
-
-San Francisco/calendar.csv
-San Francisco/reviews.csv
-*.csv
 *.pkl
+.DS_Store
+raw_data/bos/listings-1.csv
+raw_data/lax/calendar.csv
+raw_data/lax/reviews-1.csv
+raw_data/sfo/calendar.csv
+raw_data/sfo/reviews-1.csv
