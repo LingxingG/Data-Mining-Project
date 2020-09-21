@@ -1,4 +1,4 @@
 amadeus
 pandas
 numpy
-plotly
+pickle
