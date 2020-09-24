@@ -2,3 +2,5 @@ amadeus
 pandas
 numpy
 plotly
+pyshp
+descartes
