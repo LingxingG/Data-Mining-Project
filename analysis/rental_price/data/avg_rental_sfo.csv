@@ -1,81 +1,93 @@
-﻿Neighborhood,Average Rent
-Treasure Island,2616
-Van Ness - Civic Center,2944
-Tenderloin,2944
-Downtown District 8 - North East,2956
-Marina,2974
-Hayes Valley,2983
-Russian Hill,2983
-Nob Hill,2996
-Western Addition,3030
-Bernal Heights,3061
-Lower Pacific Heights,3081
-Pacific Heights,3104
-Telegraph Hill,3257
-North Beach,3257
-Noe Valley,3358
-Silver Terrace,3361
-Hunters Point,3361
-Candlestick Point,3361
-Bayview Heights,3361
-Bayview,3361
-Financial District - Barbary Coast,3412
-Outer Sunset,3444
-Inner Sunset,3444
-Golden Gate Heights,3444
-Central Sunset,3444
-North Panhandle,3456
+﻿neighbourhood,Average Rent
 Alamo Square,3456
 Anza Vista,3468
-North Waterfront,3549
-Midtown Terrace,3571
-Glen Park,3571
-Diamond Heights,3571
-Cow Hollow,3632
-Forest Knolls,3645
-Inner Mission,3657
-Stonestown,3664
-Pine Lake Park,3664
-Merced Manor,3664
-Merced Heights,3664
-Lakeside,3664
-Lake Shore,3664
-Ingleside Heights,3664
-Mission Dolores,3684
-Sunnyside,3691
-Presidio Heights,3797
-Lake Street,3797
-Jordan Park - Laurel Heights,3797
-Inner Richmond,3797
-Central Richmond,3797
-Lone Mountain,3802
-Golden Gate Park,3802
-Parnassus Heights,3809
-Haight Ashbury,3809
-Cole Valley,3809
-Buena Vista,3809
 Ashbury Heights,3809
-Visitacion Valley,3868
-Portola,3868
-Little Hollywood,3868
-South of Market,3871
-Potrero Hill,3871
-Twin Peaks,3880
-John McLaren Park,3892
-Crocker Amazon,3892
-Westwood Park,3907
-Outer Mission,3907
-Oceanview,3907
-Mount Davidson Manor,3907
-Mission Terrace,3907
-Ingleside,3907
-Excelsior,3907
-Yerba Buena,4024
+Bayview,3361
+Bayview Heights,3361
+Bernal Heights,3061
+Buena Vista,3809
+Candlestick Point,3361
+Castro/Upper Market,3539
+Central Richmond,3797
+Central Sunset,3444
 Central Waterfront - Dogpatch,4080
+Chinatown,3502
 Clarendon Heights,4153
-South Beach,4188
-Mission Bay,4352
-Eureka Valley - Dolores Heights,4427
-Duboce Triangle,4427
+Cole Valley,3809
 Corona Heights,4427
+Cow Hollow,3632
+Crocker Amazon,3892
+Diamond Heights,3571
+Downtown District 8 - North East,2956
+Downtown/Civic Center,2819
+Duboce Triangle,4427
+Eureka Valley - Dolores Heights,4427
+Excelsior,3907
+Financial District,3937
+Financial District - Barbary Coast,3412
+Forest Knolls,3645
+Glen Park,3571
+Golden Gate Heights,3444
+Golden Gate Park,3802
+Haight Ashbury,3809
+Hayes Valley,2983
+Hunters Point,3361
+Ingleside,3907
+Ingleside Heights,3664
+Inner Mission,3657
+Inner Richmond,3797
+Inner Sunset,3444
+John McLaren Park,3892
+Jordan Park - Laurel Heights,3797
+Lake Shore,3664
+Lake Street,3797
+Lakeshore,3425
+Lakeside,3664
+Little Hollywood,3868
+Lone Mountain,3802
+Lower Pacific Heights,3081
+Marina,2974
+Merced Heights,3664
+Merced Manor,3664
+Midtown Terrace,3571
+Mission,3518
+Mission Bay,4352
+Mission Dolores,3684
+Mission Terrace,3907
+Mount Davidson Manor,3907
+Nob Hill,2996
+Noe Valley,3358
+North Beach,3257
+North Panhandle,3456
+North Waterfront,3549
+Ocean View,3907
+Oceanview,3907
+Outer Mission,3907
+Outer Richmond,2931
+Outer Sunset,3444
+Pacific Heights,3104
+Parkside,2200
+Parnassus Heights,3809
+Pine Lake Park,3664
+Portola,3868
+Potrero Hill,3871
 Presidio,4936
+Presidio Heights,3797
+Russian Hill,2983
+Seacliff,2901
+Silver Terrace,3361
+South Beach,4188
+South of Market,3871
+Stonestown,3664
+Sunnyside,3691
+Telegraph Hill,3257
+Tenderloin,2944
+Treasure Island,2616
+Treasure Island/YBI,2616
+Twin Peaks,3880
+Van Ness - Civic Center,2944
+Visitacion Valley,3868
+West of Twin Peaks,3158
+Western Addition,3030
+Westwood Park,3907
+Yerba Buena,4024
