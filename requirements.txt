@@ -4,3 +4,5 @@ numpy
 plotly
 pyshp
 descartes
+eli5
+imbalanced-learn
