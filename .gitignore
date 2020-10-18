@@ -7,7 +7,7 @@ raw_data/sfo/reviews-1.csv
 pre_processing/googlemaps/.env
 
 Tanny/df_sentiment.pkl
-
+Tanny/reviews.pkl
 
 .ipynb_checkpoints
 pre_processing/googlemaps/sample/.ipynb_checkpoints
